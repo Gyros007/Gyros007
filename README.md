@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [project-odyssey (private - React, Nextjs, Ionic, Firebase, GCP)](https://github.com/Gyros007/project-odyssey)
 
-- 🌱 I’m currently learning **Unreal Engine, Firebase**
+- 🌱 I’m currently learning **Unreal Engine & Firebase**
 
 - 👯 I’m looking to collaborate on **Unreal Engine Games or start an MVP and grow from there**
 

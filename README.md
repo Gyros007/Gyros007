@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andreas Thoma</h1>
 <h3 align="center">A skilled professional with a strong interest in all aspects of app and game development, including frontend, backend, DevOps, AI, and game design.</h3>
 
-- 🔭 I’m currently working on [project-odyssey (Private Repository - React, Nextjs, Ionic, Firebase, GCP)](https://github.com/Gyros007/project-odyssey-public)
+- 🔭 I’m currently working on [project-morpheus (Private Repository - React, Nextjs, Ionic, Firebase, GCP)]
 
-- 🌱 I’m currently learning **CI/CD technologies**
+- 🌱 I’m currently learning **AI integration**
 
 - 👯 I’m looking to collaborate on **Unreal Engine Games or start an MVP and grow from there**
 
